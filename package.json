@@ -49,7 +49,7 @@
         "websocket-extensions": ">=0.1.4",
         "https-proxy-agent": ">=2.2.3",
         "acorn": ">=6.4.1",
-        "minimist": ">=1.2.3",
+        "minimist": ">=1.2.6",
         "kind-of": ">=6.0.3",
         "handlebars": ">=4.3.0",
         "serialize-javascript": ">=2.1.1",
